@@ -5,6 +5,7 @@
 # Ignore image and video files
 *.jpeg
 *.mp4
+*.jpg
 
 # Ignore YOLO training runs and dataset folders
 /datasets/
