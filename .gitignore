@@ -1,16 +1,12 @@
 # Ignore YOLO model weights
-*.pt
 *.engine
 *.onnx
 
 # Ignore image and video files
-*.jpg
 *.jpeg
-*.png
 *.mp4
 
 # Ignore YOLO training runs and dataset folders
-/runs/
 /datasets/
 /data/images/
 /data/labels/
